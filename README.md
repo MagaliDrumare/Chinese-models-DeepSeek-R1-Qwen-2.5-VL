@@ -14,3 +14,18 @@ Open-Source and Licensing: DeepSeek-R1 is made available under an MIT license, w
   - 5 expériences DeepSeek-R1 : https://youtu.be/liESRDW7RrE?si=Kh4S2VOa_E_EAEus
 
 # Qwen-2.5-VL
+Qwen-2.5-VL is a series of vision-language models (VLMs) developed by the Qwen team at Alibaba Cloud, representing an advancement over its predecessors in terms of visual understanding and interaction capabilities. Here's a detailed overview:
+  - Multimodal Abilities: Qwen-2.5-VL integrates both visual and language processing, enabling the model to understand and interact with both text and visual data effectively. It can analyze charts, recognize objects in various contexts, and interpret complex visual information like documents, invoices, and forms.
+  - Model Sizes: The series includes models with three parameter sizes: 3 billion (3B), 7 billion (7B), and 72 billion (72B). This range allows for different use cases from edge devices to high-performance computing environments.
+  - Performance: According to benchmarks, Qwen-2.5-VL outperforms several notable models like OpenAI's GPT-4o, Anthropic's Claude 3.5 Sonnet, and Google's Gemini 2.0 Flash in areas like video understanding, document analysis, and math problem-solving. It's particularly noted for its document parsing capabilities, being able to handle multi-scene, multilingual texts, and various document types including handwritten notes, tables, charts, chemical formulas, and music sheets.
+  - Interactive Capabilities: One of the standout features is its ability to interact with software on both PCs and mobile devices. It can perform tasks like booking flights through apps or switching between applications on Linux desktops, showcasing its potential in automated operations based on visual inputs and text instructions.
+  - Licensing and Availability: The smaller models (3B and 7B) are available under a permissive license, while the 72B model is under a custom Alibaba license which requires companies with over 100 million monthly active users to seek permission for commercial deployment.
+  - Restrictions: Being developed by a Chinese company, Qwen-2.5-VL has restrictions on discussing certain topics, particularly sensitive political subjects, as seen in its refusal to discuss "Xi Jinping's mistakes" in the Qwen Chat app.
+  - Dynamic Resolution: The model supports Naive Dynamic Resolution, which means it can process images of different resolutions by dynamically adjusting the number of visual tokens, closely mimicking human visual processing.
+  -Video Understanding: It can handle and comprehend videos over an hour long, with capabilities to pinpoint specific moments or events within videos, enhancing its utility in video-based tasks like question answering or content creation.
+  - Applications:
+Automation: Useful in scenarios where visual and text data need to be processed for automated actions, like in customer service for handling invoices or in educational software for interactive learning.
+Content Analysis: Its ability to interpret visual content makes it suitable for applications in media, entertainment, or any sector requiring detailed content analysis from images or videos.
+Software Interaction: The model's capability to control software applications can be leveraged in IoT, smart home systems, or any environment where AI interaction with digital interfaces is beneficial.
+
+
