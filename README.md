@@ -9,6 +9,8 @@ Open-Source and Licensing: DeepSeek-R1 is made available under an MIT license, w
   - Reasoning Transparency: One of the distinguishing features of DeepSeek-R1 is its ability to show its reasoning process, providing transparency in how it arrives at conclusions, which is beneficial for applications requiring explainability.
   - Global Implications: Its release has stirred discussions about AI development, particularly in the context of U.S.-China AI competition, highlighting how open-source models can challenge established market leaders.
 
--DeepSeek R1 realease : https://api-docs.deepseek.com/news/news250120
-- DeepSeek n'échappe pas à la censure : https://www.francetvinfo.fr/internet/intelligence-artificielle/parlons-d-autre-chose-on-a-teste-l-ia-chinoise-deepseek-qui-n-echappe-pas-a-la-censure_7041479.html
--  5 expériences DeepSeek-R1 : https://youtu.be/liESRDW7RrE?si=Kh4S2VOa_E_EAEus
+  - DeepSeek R1 realease : https://api-docs.deepseek.com/news/news250120
+  - DeepSeek n'échappe pas à la censure : https://www.francetvinfo.fr/internet/intelligence-artificielle/parlons-d-autre-chose-on-a-teste-l-ia-chinoise-deepseek-qui-n-echappe-pas-a-la-censure_7041479.html
+  - 5 expériences DeepSeek-R1 : https://youtu.be/liESRDW7RrE?si=Kh4S2VOa_E_EAEus
+
+# Qwen-2.5-VL
