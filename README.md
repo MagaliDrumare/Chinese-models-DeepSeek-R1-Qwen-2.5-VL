@@ -27,7 +27,6 @@ Automation: Useful in scenarios where visual and text data need to be processed 
 Content Analysis: Its ability to interpret visual content makes it suitable for applications in media, entertainment, or any sector requiring detailed content analysis from images or videos.
 Software Interaction: The model's capability to control software applications can be leveraged in IoT, smart home systems, or any environment where AI interaction with digital interfaces is beneficial.
   - Qwen 2.5 VL release : https://qwenlm.github.io/blog/qwen2.5-vl/
-  - Models: https://lnkd.in/e9HH-umX
-  - Blog: https://lnkd.in/erqfda2K
+  - Github : https://github.com/QwenLM/Qwen2.5?tab=readme-ov-file
 
 
