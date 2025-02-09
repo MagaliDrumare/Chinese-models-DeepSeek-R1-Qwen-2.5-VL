@@ -30,3 +30,4 @@ Software Interaction: The model's capability to control software applications ca
   - Github : https://github.com/QwenLM/Qwen2.5?tab=readme-ov-file
 
 
+
